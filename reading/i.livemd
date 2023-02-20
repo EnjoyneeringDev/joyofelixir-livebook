@@ -1,0 +1,34 @@
+# Joy Of Elixir
+
+## Navigation
+
+[Return Home](index.livemd)<span style="padding: 0 30px"></span>
+[Report An Issue](https://github.com/amir-repository/joyofelixir-livebook)
+
+## I. But who is this book for, really?
+
+On the opening page you might've seen this:
+
+> Joy of Elixir is a gentle introduction to programming, aimed at people who already know some things about computers, but who have little-to-no programming experience. If you think you don't know enough about computers, well you got here already and that's enough!
+
+Or you might've just gone straight to the "read it online" link and missed that. Anyway, now that I have your attention and you've read that little paragraph you might be thinking: but who is this book for, really? Well, let me lay it out plain and simple like:
+
+<h3 style="text-align: center; font-size: 44px; margin-top: 64px; margin-bottom: 64px">
+This book is for you.</h1>
+
+This book is for anyone who has ever wanted to learn to program. You might've attempted it before. You might not have. You might've read some very dry books on programming and been turned off programming altogether, but now you're back here. I'm glad you're still with us. Thanks for giving us all another shot.
+
+If the extent of your programming experience is using functions like SUM(A1:A23) in Microsoft Excel to sum up all the numbers in a few rows, then that's fine. If you have no idea what I'm talking about, then that's fine too.
+
+The extent of your programming knowledge might just be telling the computer to always put a signature at the end of your emails. Something official looking with your name, job title and phone number. There might even be a pithy quote at the end. Yes, even that is programming. You've given the computer an instruction and it's dutifully carrying it out until told otherwise.
+
+You're reading this book on a computer device of some description and that's a perfect start. You probably know what a web browser is. You have some idea that programming lets you boss the computer around and cut down on the repetitiveness of some computer-based tasks. That's brilliant. You'll do well here.
+
+Now with that out of the way, let's look at what this Elixir thing is.
+</h3>
+
+## Up Next
+
+| Previous             | Next                                                 |
+| -------------------- | ---------------------------------------------------: |
+| [Home](index.livemd) | [Elixir? Isn't that something you drink?](ii.livemd) |
