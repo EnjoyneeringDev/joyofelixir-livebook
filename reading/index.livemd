@@ -14,7 +14,7 @@ This is the book for you!
 * [Read it online](https://joyofelixir.com/toc.html)
 * [About](https://joyofelixir.com/about.html)
 
-*Joy of Elixir is original work of Ryan Bigg
+> Joy of Elixir is original work of [Ryan Bigg](https://github.com/radar/joyofelixir)
 
 ## Table Of Contents
 
