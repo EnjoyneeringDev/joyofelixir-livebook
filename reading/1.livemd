@@ -94,6 +94,6 @@ Calculate the average of these numbers: 4, 8, 15, 16, 23 and 42.
 
 ## Up Next
 
-| Previous             | Next                                                 |
-| -------------------- | ---------------------------------------------------: |
-| [Home](index.livemd) | [Elixir? Isn't that something you drink?](ii.livemd) |
+| Previous                                             | Next                                         |
+| ---------------------------------------------------- | -------------------------------------------: |
+| [Elixir? Isn't that something you drink?](ii.livemd) | [Now, where did I put that value?](2.livemd) |
