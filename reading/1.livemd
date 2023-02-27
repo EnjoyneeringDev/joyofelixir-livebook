@@ -1,0 +1,99 @@
+# Joy Of Elixir
+
+## Navigation
+
+[Return Home](index.livemd)<span style="padding: 0 30px"></span>
+[Report An Issue](https://github.com/amir-repository/joyofelixir-livebook)
+
+## 1. Appeasing the masses with code
+
+The masses have sat through the best part of a chapter (at least) absorbing everything that we've talked about. But they're a little rowdy because we've been talking about programming languages without actually doing any programming. Well, that's completely understandable! I would be just as annoyed if I wasn't the one writing the book. I know what's coming but they don't.
+
+OK, let's try appeasing the masses. Here's some code:
+
+```elixir
+"Hello, World!"
+```
+
+The masses are silent. Their stares harden. Their spokesman — who they've nominated while I thought of this snippet — says (while systematically tearing down the fourth wall): "That's just a bunch of quoted words! Just like this one that I'm speaking."
+
+The crowd agrees.
+
+Ok, you're right. It is some quoted words, but they're quoted words that both humans and computers can understand. That's pretty cool. Well, I thought so, at least.
+
+The crowd of humans arrayed before us know the words and that the words have meaning behind them and form an understandable sentence. The computer knows only the individual letters or symbols in the words, and cares not that the words have a meaning or that the words form an understandable sentence. "Those things are only important to the humans", it thinks, without acknowledging the [Machine Learning](http://whatis.techtarget.com/definition/machine-learning) zeitgeist that has sprung up recently.
+
+When we say the sentence to the masses, they can easily repeat it back to us. To speak to the computer, we need to open up a prompt for the particular language we want to use to converse. Different languages have different prompts. We can't just speak to the computer to program it. Not yet, anyway.
+
+> <h3>Installing Elixir</h3>
+> You might not have installed Elixir yet and we're just about to need it to be installed. If you don't have it installed, pretty much everything after this point won't work.<br><br>
+> A good way to check to see if Elixir is installed is by running this command in your terminal:
+> <br><strong>elixir -v</strong>
+> <br><br>If this command says something like this:
+> <br><strong>Erlang/OTP 23 [erts-11.1.1] [source] [64-bit] [smp:16:16] [ds:16:16:10] [async-threads:1] [hipe] [dtrace]
+> <br><br> Elixir v1.10.4</strong>
+> <br><br> Then that means Elixir is installed and you can carry on. If it says something like "command not found", then head over to Appendix A: Setup and Install and follow the steps in there first.
+
+<!-- livebook:{"break_markdown":true} -->
+
+<h3>
+Mathematical!
+</h3>
+
+Ok, But what else can it do? How about we ask the computer to do some simple mathematics?
+
+```elixir
+2 + 4
+```
+
+```elixir
+3 - 6
+```
+
+```elixir
+4 * 12345
+```
+
+```elixir
+1234 / 4 + 2 - 12 * 3
+```
+
+This appeases the masses, slightly. They're a fickle bunch. The computer is now no longer parroting things back to us. It's instead calculating the not-so-advanced mathematical equations we're giving it, and then giving us the right numbers. If you're not convinced these are the right numbers, I would encourage you to get a pen and paper and to puzzle them out yourselves. You'll find out that the computer is right. Good computer!
+
+The masses realise that Elixir is now built for more things than simple parroting. Elixir can do calculations too! We've used the symbols +, -, *, and / here, asking the computer to add, subtract, multiply and divide, in that order. You might think to use x to multiply, but that has a different meaning as we'll see later on. You should use * when you wish to multiply things, as that is what Elixir expects you to do.
+
+<!-- livebook:{"break_markdown":true} -->
+
+<h3>
+What we aim to achieve in this book
+</h3>
+
+Okay, now that the masses are appeased, let's take a moment to talk about what this book is going to cover and what you're going to get out of it.
+
+The first 12 chapters are going to cover some Elixir basics. Yes, that seems like a lot of chapters but most of these chapters are fairly short; just a couple of pages long. It's about 50 pages in total. These chapters will cover the things that you should know before you can write any Elixir program of a decent length, and it gives you a good tour of the language. These chapters are important because they will build a solid foundation for your Elixir experience.
+
+Chapter 13 onwards will focus on building larger programs using the techniques that we've learned in the first 12 chapters. We'll combine things from earlier chapters and use them altogether and we'll even get introduced to even more things that the Elixir language does.
+
+At the end of each chapter, there will be a set of (optional) exercises that you can do, using things that you have learned in the chapter. I strongly encourage that you try these out at least. If you're unable to do them, don't sweat it. Just try again later on.
+
+With all that said, let's continue looking at what Elixir can do for us, starting next with making Elixir remember things for us.
+
+## Exercise
+
+Get Elixir to calculate the number of seconds in the day by multiplying the hours in a day by 60 twice. How many seconds are there in a day?
+
+```elixir
+# write your code here
+```
+
+Calculate the average of these numbers: 4, 8, 15, 16, 23 and 42.
+
+```elixir
+# write your code here
+```
+
+## Up Next
+
+| Previous             | Next                                                 |
+| -------------------- | ---------------------------------------------------: |
+| [Home](index.livemd) | [Elixir? Isn't that something you drink?](ii.livemd) |
