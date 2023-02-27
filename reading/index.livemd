@@ -22,3 +22,7 @@ This is the book for you!
 
 * [But who is this book for really?](i.livemd)
 * [Elixir? Isn't that something you drink?](ii.livemd)
+
+### Part Two: And away we go
+
+* [Appeasing the masses with code](1.livemd)
